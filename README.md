@@ -19,7 +19,7 @@ A Python-based command line tool for digital photo forensic analysis.
 ## Installation
 
 ```bash
-git clone https://github.com/USERNAME/PhotoForensics.git
+git clone https://github.com/TrXiNo/PhotoForensics.git
 
 cd PhotoForensics
 
