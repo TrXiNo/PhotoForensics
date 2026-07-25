@@ -1,0 +1,5 @@
+name = "photo-forensics"
+version = "1.0.0"
+
+[project.scripts]
+photo_forensics = "photo_forensics.cli:main"
