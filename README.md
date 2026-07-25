@@ -1,5 +1,8 @@
 # Photo Forensics Tool
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A Python-based command line tool for digital photo forensic analysis.
 
 ## Features
